@@ -1,0 +1,21 @@
+{
+  /*
+   | This file is automatically updated by ModManifestBuilder
+   | when the project is compiled.
+   | 
+   | Changes made to this file may be overwritten.
+   | 
+   */
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "ceddieeee.WildAndFruitTreeTransplant",
+  "Name": "Wild and Fruit Tree Transplant",
+  "Author": "ceddieeee",
+  "Version": "1.0.0",
+  "Description": "Allows transplanting vanilla and modded wild and fruit trees.",
+  "MinimumApiVersion": "4.5.1",
+  "MinimumGameVersion": "1.6.15",
+  "EntryDll": "WildAndFruitTreeTransplant.dll",
+  "UpdateKeys": [
+    "Nexus:42840"
+  ]
+}

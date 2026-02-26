@@ -1,0 +1,43 @@
+{
+  "Config.UseRobinsService.Name": "Use Robin's Service",
+  "Config.UseRobinsService.Tooltip": "Adds tree transplant option to Robin's shop menu (disables free mode).",
+
+  "Config.WildTreeTransplantPrice.Name": "Wild Tree Transplant Cost",
+  "Config.WildTreeTransplantPrice.Tooltip": "Gold price per wild tree when using Robin's service.",
+
+  "Config.FruitTreeTransplantPrice.Name": "Fruit Tree Transplant Cost",
+  "Config.FruitTreeTransplantPrice.Tooltip": "Gold price per fruit tree when using Robin's service.",
+
+  "Config.TransplantModeKeybind.Name": "Free Transplant Mode Key",
+  "Config.TransplantModeKeybind.Tooltip": "The key used to toggle transplant mode directly. This option applies only when Robin's service is disabled.",
+
+	"Config.ForceTransplant.Name": "Force Transplant",
+	"Config.ForceTransplant.Tooltip": "Let's you transplant freely in any tile. Bypassing normal transplant check.",
+
+	"Config.AllowTapped.Name": "Allow Tapped",
+	"Config.AllowTapped.Tooltip": "Lets you transplant tapped trees in both modes.",
+
+	"Config.AllowStumps.Name": "Allow Stumps",
+	"Config.AllowStumps.Tooltip": "Lets you transplant tree stumps in both modes.",
+
+	"Config.AllowLightningStruck.Name": "Allow Lightning Trees",
+  "Config.AllowLightningStruck.Tooltip": "Lets you tranpslant lightning-hit fruit trees in both modes.",
+
+	"Config.OnlyMatureTrees.Name": "Mature Trees Only",
+  "Config.OnlyMatureTrees.Tooltip": "Limits transplant to fully grown trees. Disable for any growth stage.",
+
+  "CarpenterMenu.TransplantTree.Option": "Transplant Tree",
+	"CarpenterMenu.TransplantTree.Option.IslandWest": "Island Farm",
+
+	"CarpenterMenu.TransplantTree.SelectLocation": "Select location",
+
+  "CarpenterMenu.Banner.SelectTree": "Select a Tree to Transplant",
+  "CarpenterMenu.Banner.PickLocation": "Select a new location for the tree",	
+
+	"HUD.NoFunds": "You don't have enough money.",
+	"HUD.InvalidTile": "Can't transplant there.",
+	"HUD.TreeIsTapped": "Tapped trees can't be transplanted.",
+	"HUD.TreeIsStruckByLightning": "Lightning-struck trees can't be transplanted.",
+	"HUD.TreeIsStump": "Stumps can't be transplanted.",
+	"HUD.TreeIsYoung": "Young trees can't be transplanted."
+}

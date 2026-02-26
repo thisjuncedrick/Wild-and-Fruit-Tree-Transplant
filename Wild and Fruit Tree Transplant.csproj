@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<AssemblyName>WildAndFruitTreeTransplant</AssemblyName>
+
+		<UniqueId>ceddieeee.WildAndFruitTreeTransplant</UniqueId>
+		<Name>Wild and Fruit Tree Transplant</Name>
+		<Authors>ceddieeee</Authors>
+		<Description>Allows transplanting vanilla and modded wild and fruit trees.</Description>
+		<Version>1.0.0</Version>
+		<MinimumApiVersion>auto</MinimumApiVersion>
+		<MinimumGameVersion_Behavior>SetFull</MinimumGameVersion_Behavior>
+		<UpdateKeys>Nexus:42840;</UpdateKeys>
+	</PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Wild_and_Fruit_Tree_Transplant</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+		<EnableHarmony>true</EnableHarmony>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Leclair.Stardew.ModManifestBuilder" Version="2.4.1" />
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" />
+    <PackageReference Include="Pathoschild.Stardew.ModTranslationClassBuilder" Version="2.2.1" />
+  </ItemGroup>
+
+</Project>
